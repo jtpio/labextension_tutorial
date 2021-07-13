@@ -57,6 +57,7 @@ Start with the [Hello World](hello-world) and then jump to the topic you are int
 - [Context Menu](context-menu)
 - [Custom Log Console](custom-log-console)
 - [Datagrid](datagrid)
+- [Documents](documents)
 - [Hello World](hello-world)
 - [Kernel Messaging](kernel-messaging)
 - [Kernel Output](kernel-output)
@@ -111,6 +112,12 @@ Create a new log console.
 Display a Datagrid as a Lumino Widget.
 
 [![Datagrid](datagrid/preview.png)](datagrid)
+
+### [Documents](documents)
+
+Create new documents and make them collaborative.
+
+[![Documents](documents/preview.png)](documents)
 
 ### [Hello World](hello-world)
 
